@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:NSThreadSafeDemo/NSThreadSafeDemo.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:NSThreadCommunicationDemo/NSThreadCommunicationDemo.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:NSThreadStatusDemo/NSThreadStatusDemo.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:NSThreadDemo/NSThreadDemo.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:PThreadDemo/PThreadDemo.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:TimeConsumingDemo/TimeConsumingDemo.xcodeproj">
+   </FileRef>
+</Workspace>
